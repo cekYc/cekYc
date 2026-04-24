@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ceky
+# 👋 Hi, I'm Eray Çiçek
 
 Backend-focused developer building scalable systems and practical AI-driven tools.
 I focus on performance, real-time systems, and clean architecture.
